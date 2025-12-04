@@ -1,6 +1,15 @@
-﻿  Model.cpp
-  main.cpp
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(28,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+﻿  main.cpp
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(29,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,105): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,105): warning C4244:         with
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,105): warning C4244:         [
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,105): warning C4244:             t=int
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,105): warning C4244:         ]
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,68): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,68): warning C4244:         with
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,68): warning C4244:         [
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,68): warning C4244:             t=int
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(76,68): warning C4244:         ]
 C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,78): warning C4244: аргумент: преобразование "float" в "t", возможна потеря данных
 C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,78): warning C4244:         with
 C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,78): warning C4244:         [
@@ -9,11 +18,11 @@ C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,78): warning 
   (компиляция исходного файла "main.cpp")
       C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,78):
       контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(15,6):
+          C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(16,6):
           выполняется компиляция ссылки на экземпляр класс шаблон функции "Vec2<int>"
           C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,17):
           во время компиляции функции-члена класс шаблон "Vec2<int> Vec2<int>::operator *(float) const"
-              C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(50,22):
+              C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(51,22):
               см. первую ссылку на "Vec2<int>::operator *" в "triangle"
   
 C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,71): warning C4244: аргумент: преобразование "float" в "t", возможна потеря данных
@@ -23,6 +32,4 @@ C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,71): warning 
 C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(16,71): warning C4244:         ]
   (компиляция исходного файла "main.cpp")
   
-  tgaimage.cpp
-  Создание кода...
   HomeWorkKG3.vcxproj -> C:\Users\Fyodor\source\repos\HomeWorkKG3\x64\Debug\HomeWorkKG3.exe
