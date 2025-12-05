@@ -165,7 +165,7 @@ bool TGAImage::write_tga_file(const char* filename, bool rle) {
 	header.width = width;
 	header.height = height;
 	header.datatypecode = (bytespp == GRAYSCALE ? (rle ? 11 : 3) : (rle ? 10 : 2));
-	header.imagedescriptor = 0x20; 
+	header.imagedescriptor = 0x20;
 	out.write((char*)&header, sizeof(header));
 	if (!out.good()) {
 		out.close();
@@ -340,7 +340,7 @@ bool TGAImage::scale(int w, int h) {
 		erry += h;
 		oscanline += olinebytes;
 		while (erry >= (int)height) {
-			if (erry >= (int)height << 1) 
+			if (erry >= (int)height << 1)
 				memcpy(tdata + nscanline + nlinebytes, tdata + nscanline, nlinebytes);
 			erry -= height;
 			nscanline += nlinebytes;

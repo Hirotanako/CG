@@ -3,6 +3,8 @@
 
 #include <cmath>
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 template <class t> struct Vec2 {
 	union {
 		struct { t u, v; };
@@ -50,4 +52,4 @@ template <class t> std::ostream& operator<<(std::ostream& s, Vec3<t>& v) {
 	return s;
 }
 
-#endif 
+#endif //__GEOMETRY_H__
