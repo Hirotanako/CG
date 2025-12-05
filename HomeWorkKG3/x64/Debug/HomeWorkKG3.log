@@ -1,43 +1,26 @@
 ﻿  main.cpp
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(27,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(66,27): warning C4305: аргумент: усечение из "double" в "t"
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(66,27): warning C4305:         with
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(66,27): warning C4305:         [
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(66,27): warning C4305:             t=float
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(66,27): warning C4305:         ]
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,83): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,83): warning C4244:         with
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,83): warning C4244:         [
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,83): warning C4244:             t=int
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,83): warning C4244:         ]
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,57): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,57): warning C4244:         with
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,57): warning C4244:         [
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,57): warning C4244:             t=int
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(73,57): warning C4244:         ]
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(80,136): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(80,119): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(80,102): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,78): warning C4244: аргумент: преобразование "float" в "t", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,78): warning C4244:         with
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,78): warning C4244:         [
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,78): warning C4244:             t=int
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,78): warning C4244:         ]
-  (компиляция исходного файла "main.cpp")
-      C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,78):
-      контекст создания экземпляра шаблона (сначала самый старый)
-          C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(14,6):
-          выполняется компиляция ссылки на экземпляр класс шаблон функции "Vec2<int>"
-          C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,17):
-          во время компиляции функции-члена класс шаблон "Vec2<int> Vec2<int>::operator *(float) const"
-              C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(48,22):
-              см. первую ссылку на "Vec2<int>::operator *" в "triangle"
-  
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,71): warning C4244: аргумент: преобразование "float" в "t", возможна потеря данных
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,71): warning C4244:         with
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,71): warning C4244:         [
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,71): warning C4244:             t=int
-C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\geometry.h(18,71): warning C4244:         ]
-  (компиляция исходного файла "main.cpp")
-  
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(14,23): warning C4305: аргумент: усечение из "double" в "t"
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(14,23): warning C4305:         with
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(14,23): warning C4305:         [
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(14,23): warning C4305:             t=float
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(14,23): warning C4305:         ]
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(31,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,112): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,112): warning C4244:         with
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,112): warning C4244:         [
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,112): warning C4244:             t=int
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,112): warning C4244:         ]
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,87): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,87): warning C4244:         with
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,87): warning C4244:         [
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,87): warning C4244:             t=int
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,87): warning C4244:         ]
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,61): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,61): warning C4244:         with
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,61): warning C4244:         [
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,61): warning C4244:             t=int
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(63,61): warning C4244:         ]
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(70,140): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(70,123): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\Fyodor\source\repos\HomeWorkKG3\HomeWorkKG3\main.cpp(70,106): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
   HomeWorkKG3.vcxproj -> C:\Users\Fyodor\source\repos\HomeWorkKG3\x64\Debug\HomeWorkKG3.exe
