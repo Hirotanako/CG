@@ -1,0 +1,8 @@
+C:\CG4_1\cgwork4\src\app\AppBase.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\AppBase.obj
+C:\CG4_1\cgwork4\src\app\CubeApp.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\CubeApp.obj
+C:\CG4_1\cgwork4\src\core\FrameTimer.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\FrameTimer.obj
+C:\CG4_1\cgwork4\src\graphics\Dx12Utils.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\Dx12Utils.obj
+C:\CG4_1\cgwork4\src\math\MathUtils.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\MathUtils.obj
+C:\CG4_1\cgwork4\src\math\MeshGenerator.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\MeshGenerator.obj
+C:\CG4_1\cgwork4\src\resources\TextureLoaderDDS.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\TextureLoaderDDS.obj
+C:\CG4_1\cgwork4\src\scene\CameraComponent.cpp;C:\CG4_1\cgwork4\obj\x64\Debug\CameraComponent.obj
