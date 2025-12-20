@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(8,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(15,23): warning C4305: аргумент: усечение из "double" в "t"
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(15,23): warning C4305:         with
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(15,23): warning C4305:         [
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(15,23): warning C4305:             t=float
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(15,23): warning C4305:         ]
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(70,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,112): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,112): warning C4244:         with
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,112): warning C4244:         [
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,112): warning C4244:             t=int
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,112): warning C4244:         ]
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,87): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,87): warning C4244:         with
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,87): warning C4244:         [
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,87): warning C4244:             t=int
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,87): warning C4244:         ]
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,61): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,61): warning C4244:         with
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,61): warning C4244:         [
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,61): warning C4244:             t=int
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(103,61): warning C4244:         ]
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(110,140): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(110,123): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\Фёдор\source\repos\HOME\HOME\main.cpp(110,106): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+  HOME.vcxproj -> C:\Users\Фёдор\source\repos\HOME\HOME\x64\Debug\HOME.exe
